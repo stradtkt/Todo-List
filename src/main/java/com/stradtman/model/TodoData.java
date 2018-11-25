@@ -2,6 +2,7 @@ package com.stradtman.model;
 
 import lombok.NonNull;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -11,7 +12,9 @@ public class TodoData {
     private static int idValue = 1;
     private final List<TodoItem> items = new ArrayList<>();
     public TodoData() {
-
+        addItem(new TodoItem("first", "first details", LocalDate.now()));
+        addItem(new TodoItem("second", "second details", LocalDate.now()));
+        addItem(new TodoItem("third", "third details", LocalDate.now()));
     }
 
     public List<TodoItem> getItems() {

@@ -1,0 +1,5 @@
+com\stradtman\config\WebConfig.class
+com\stradtman\service\DemoServiceImpl.class
+com\stradtman\config\WebAppInitializer.class
+com\stradtman\service\DemoService.class
+com\stradtman\controller\DemoController.class

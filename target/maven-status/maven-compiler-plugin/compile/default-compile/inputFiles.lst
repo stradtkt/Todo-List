@@ -1,8 +1,6 @@
 E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\utils\ViewNames.java
 E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\config\WebAppInitializer.java
-E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\service\DemoService.java
-E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\controller\DemoController.java
-E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\service\DemoServiceImpl.java
+E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\utils\AttributeNames.java
 E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\service\TodoItemService.java
 E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\config\WebConfig.java
 E:\java\IdeaProjects\todo-list\src\main\java\com\stradtman\controller\TodoItemController.java

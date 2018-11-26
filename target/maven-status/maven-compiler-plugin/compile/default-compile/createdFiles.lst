@@ -1,12 +1,10 @@
-com\stradtman\model\TodoData.class
-com\stradtman\config\WebConfig.class
-com\stradtman\controller\TodoItemController.class
-com\stradtman\service\DemoService.class
+com\stradtman\utils\AttributeNames.class
 com\stradtman\config\WebAppInitializer.class
 com\stradtman\service\TodoItemServiceImpl.class
 com\stradtman\utils\Mappings.class
+com\stradtman\model\TodoData.class
 com\stradtman\utils\ViewNames.class
+com\stradtman\config\WebConfig.class
+com\stradtman\controller\TodoItemController.class
 com\stradtman\model\TodoItem.class
-com\stradtman\service\DemoServiceImpl.class
-com\stradtman\controller\DemoController.class
 com\stradtman\service\TodoItemService.class
